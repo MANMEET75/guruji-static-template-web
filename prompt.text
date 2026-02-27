@@ -1,0 +1,149 @@
+Create a clean, premium, minimal static website for a brand called Guruji.
+
+Brand Positioning:
+Guruji is a consciousness-centered learning platform for young Indians aged 18–30. The mission is to build leaders for Viksit Bharat (India 2047 vision). It blends financial literacy, emotional intelligence, decision-making, and self-awareness into one leadership framework.
+
+Tone:
+• Premium
+• Modern Indian
+• Visionary
+• Calm but powerful
+• Corporate yet human
+• Inspired by leadership and inner growth
+
+Design Direction:
+• Use theme and colors inspired from the logo (logo.png in images folder)
+• Clean typography (modern sans-serif)
+• White / light background with bold dark sections
+• Subtle gradients allowed
+• Minimal animations (fade-in, smooth scroll)
+• Fully responsive (mobile-first design)
+• Professional and trustworthy
+
+WEBSITE STRUCTURE
+1️⃣ Hero Section
+
+Headline:
+Making Leaders for Viksit Bharat
+
+Subheadline:
+Consciousness-Centered Learning for Young India
+
+Short paragraph:
+India is building toward a $30 trillion economy by 2047. That future requires millions of capable, conscious leaders. Guruji is built to help shape them.
+
+Primary CTA Button:
+“Join the Movement”
+
+Secondary CTA:
+“Coming Soon”
+
+Add subtle text:
+Full platform launching soon.
+
+2️⃣ Vision Section
+
+Title:
+The Vision
+
+Content:
+Guruji is not just an edtech platform. It is a movement.
+
+Built on the belief that India’s $30 trillion dream requires millions of conscious, capable leaders, Guruji delivers contextualized learning for young Indians aged 18–30 — enabling practical life skills that traditional education simply doesn’t teach.
+
+3️⃣ What We Focus On
+
+Create 4 clean cards with icons:
+
+• Financial Literacy
+Understanding money early. Making smarter decisions.
+
+• Emotional Intelligence
+Handling pressure, relationships and workplace dynamics with clarity.
+
+• Decision-Making
+Thinking clearly in complexity. Acting from wisdom, not fear.
+
+• Self-Awareness
+Building an inner compass for lifelong leadership.
+
+4️⃣ Founder Section
+
+Title:
+From Boardrooms to Inner Work
+
+Content:
+Founded by Saurabh Atrey — former CFO and Board Member with 25+ years of corporate leadership experience, and decades of meditation, journaling and consciousness-based practice.
+
+Guruji integrates real-world leadership with inner clarity.
+
+5️⃣ Coming Soon Section (Important)
+
+Dark background section with bold typography.
+
+Headline:
+The Full Learning Platform is Coming Soon
+
+Subtext:
+We are building a dynamic learning portal with structured programs, workshops, campus partnerships, and digital courses designed specifically for India’s next generation of leaders.
+
+CTA:
+“Get Early Access”
+(email input field + notify button)
+
+Small text:
+Be among the first to experience Guruji.
+
+6️⃣ Partnership Invitation
+
+Title:
+Colleges & Corporates
+
+Content:
+We are open to partnerships with institutions and organizations that care about preparing young people for real life — not just exams and job descriptions.
+
+CTA Button:
+Partner With Us
+
+7️⃣ Footer
+
+Include:
+• About
+• Vision
+• Partnerships
+• LinkedIn link
+• Copyright 2026 Guruji
+• Tagline: Making Leaders for Viksit Bharat
+
+TECH REQUIREMENTS
+
+• Static HTML, CSS, minimal JS
+• Clean folder structure
+• Use logo.png from images folder
+• SEO optimized meta title and description
+• Fast loading
+• Accessible design
+• Ready for deployment on Vercel / Netlify
+
+SEO Meta Title:
+Guruji | Making Leaders for Viksit Bharat
+
+SEO Meta Description:
+Guruji is a consciousness-centered learning platform for young Indians aged 18–30, focused on financial literacy, emotional intelligence, decision-making and self-awareness.
+
+VISUAL MOOD
+
+The website should feel like:
+
+Apple x Indian leadership movement
+Calm confidence
+Modern Bharat
+Long-term vision
+Trustworthy and premium
+
+Not:
+• Flashy edtech
+• Loud colors
+• Startup gimmicky
+• Too spiritual
+• Too corporate
